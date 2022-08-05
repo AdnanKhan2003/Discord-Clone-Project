@@ -1,0 +1,29 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 124 34" width="124" height="34">
+	<title>svgviewer-output-svg</title>
+	<defs>
+		<image  width="31" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAYAQMAAAA4ZbTCAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAU0lEQVR4nG3HsQ2AMAwEwA8ULj2CR2G0sAEjsEqYhEgUtO6giHgShZLmpENwA4RMUDLDSO9M5N2JH6XD9azo8YCyVbSxtJL/xP0qsCQOmceEgAEvCClHem9IofYAAAAASUVORK5CYII="/>
+		<image  width="15" height="13" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANAQMAAABM0KYCAAAAAXNSR0IB2cksfwAAAAZQTFRF////AAAAVcLTfgAAAAJ0Uk5T/wDltzBKAAAAJUlEQVR4nGNg/MfAwMfAwMbAwMTADkRNDOwNYJIJJAISB8raAQBIWQMVto7ZpAAAAABJRU5ErkJggg=="/>
+		<image  width="12" height="12" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMAQMAAABsu86kAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAH0lEQVR4nGOQP8BQ/wCGwGz7DwzFHxjqP4DZBxgYGAAL3w36z5p9YwAAAABJRU5ErkJggg=="/>
+		<image  width="12" height="12" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMAQMAAABsu86kAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAIklEQVR4nGPgP8Bg/4GhHoz+GDD8YQCh/2AuUFz+AQMDAwACcw2NUAzLdQAAAABJRU5ErkJggg=="/>
+		<image  width="14" height="11" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAALAQMAAAB1Sy4hAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAJklEQVR4nGPgf8Bg/4Gh/gdD/R+GmhqGHzUMf2pAbKCI/Q8G+QcA5CkOHZR/RZAAAAAASUVORK5CYII="/>
+		<image  width="10" height="11" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALAQMAAAB8oI5bAAAAAXNSR0IB2cksfwAAAAZQTFRF////AAAAVcLTfgAAAAJ0Uk5T/wDltzBKAAAAFElEQVR4nGNgcWBgQELMBxjYURAAR2wF6zhw9OAAAAAASUVORK5CYII="/>
+		<image  width="14" height="14" id="img7" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAQMAAAAlhr+SAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAIklEQVR4nGNgqGEAIvkaBvs/DPVgVFMDRRAuUFz+DwMDAwAZMQ350grHtgAAAABJRU5ErkJggg=="/>
+		<image  width="6" height="5" id="img8" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAFAQMAAABclg+lAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAEElEQVR4nGOoYKhg+AHEBgAN+gKREnwyPgAAAABJRU5ErkJggg=="/>
+		<image  width="6" height="9" id="img9" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAJAQMAAAArVM/eAAAAAXNSR0IB2cksfwAAAAZQTFRF////AAAAVcLTfgAAAAJ0Uk5T/wDltzBKAAAADElEQVR4nGMwYEADAANCADGNF1whAAAAAElFTkSuQmCC"/>
+		<image  width="22" height="10" id="img10" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAKAQMAAACKbjyYAAAAAXNSR0IB2cksfwAAAANQTFRF////p8QbyAAAAAxJREFUeJxjYCAOAAAAKAABNVRyhAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<g id="Layer">
+		<use id="Layer" href="#img1" x="0" y="5"/>
+		<use id="Layer" href="#img2" x="41" y="9"/>
+		<use id="Layer" href="#img3" x="62" y="11"/>
+		<use id="Layer" href="#img4" x="74" y="11"/>
+		<use id="Layer" href="#img5" x="86" y="11"/>
+		<use id="Layer" href="#img6" x="101" y="11"/>
+		<use id="Layer" href="#img7" x="110" y="9"/>
+		<use id="Layer" href="#img8" x="56" y="8"/>
+		<use id="Layer" href="#img9" x="56" y="13"/>
+		<use id="Layer 1" href="#img10" x="4" y="11"/>
+	</g>
+</svg>
