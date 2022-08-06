@@ -5,7 +5,7 @@ This is my first time cloning a website. If you find this project good, then ple
 
 
 ## 👇 CLICK HERE TO VIEW THE DISCORD CLONE
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adnankhan2003.github.io/Discord-Clone-Project/)
+[![Discord Clone](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adnankhan2003.github.io/Discord-Clone-Project/)
 
 
 
