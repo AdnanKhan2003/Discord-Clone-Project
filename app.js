@@ -7,3 +7,18 @@ function openMenu(){
 function closeMenu(){
     navlinks.style.right = "-700px"
 }
+
+
+
+
+
+
+$(document).ready(function () {
+    $('.hamburger').on('click', function(){
+        $('body').toggleClass('no-scroll');
+    });
+    
+    $('.hamburger-close').on('click', function(){
+        $('body').removeClass('no-scroll');
+    });
+});

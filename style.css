@@ -550,11 +550,10 @@ a {
         cursor: pointer;
     }
 
-    .nav-links-group a.btn-brand {
-        position: absolute;
-        bottom: 2rem;
-        right: 5%;
-        width: 90%;
-        text-align: center;
-    }
+}
+
+
+
+.no-scroll{
+    overflow: hidden;
 }
