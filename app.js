@@ -1,9 +1,13 @@
-let navlinks = document.getElementById('navlinks');
+const navLink = document.querySelector("#navLinks");
 
-function openMenu(){
-    navlinks.style.right = "0";
+
+// close the menu
+function closeMenu() {
+    navLink.style.left = "-250px";
 }
 
-function closeMenu(){
-    navlinks.style.right = "-700px"
+
+// open the menu
+function openMenu() {
+    navLink.style.left = "0"
 }
